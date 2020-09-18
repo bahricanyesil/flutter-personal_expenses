@@ -1,6 +1,10 @@
 # personal_expenses_app
 
-A new Flutter project.
+A simple mobile application that you can keep track of your personal expenses.
+
+![splash+adding transaction](https://github.com/bahricanyesil/flutter-personal_expenses/blob/master/screenshots/Splash%2BAdding%20Transaction.gif)
+![adding-deleting transaction](https://github.com/bahricanyesil/flutter-personal_expenses/blob/master/screenshots/Adding-Deleting%20Transaction.gif)
+
 
 ## Getting Started
 
